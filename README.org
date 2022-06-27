@@ -2,6 +2,9 @@
 
 This is an example of an aws-lambda invocation with a shell script.
 
-The lambda function is a greedy algorith that calculates the number of
+The lambda function is a greedy algorithm that calculates the number of
 combinations in which change of x can be given provided the posible coins
 available.
+
+The function is a python script that uses tree recursion inspired [[https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_%_sec_Temp_52][in this SICP
+example]]
