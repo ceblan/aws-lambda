@@ -1,0 +1,7 @@
+* aws-lambda
+
+This is an example of an aws-lambda invocation with a shell script.
+
+The lambda function is a greedy algorith that calculates the number of
+combinations in which change of x can be given provided the posible coins
+available.
